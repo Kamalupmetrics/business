@@ -36,4 +36,4 @@
 </html>
 # business
 
-you can also choose a tool like upmetrics.co
+you can also choose a tool like https://upmetrics.co/
